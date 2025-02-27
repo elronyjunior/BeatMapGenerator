@@ -1,0 +1,2992 @@
+{
+    "beats": [
+        {
+            "time": 0.8823582766439909,
+            "arrow": "Cima"
+        },
+        {
+            "time": 1.2156916099773243,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 1.5490249433106575,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 1.5905668934240362,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 1.9239002267573695,
+            "arrow": "Direita"
+        },
+        {
+            "time": 2.257233560090703,
+            "arrow": "Cima"
+        },
+        {
+            "time": 2.3103854875283445,
+            "arrow": "Cima"
+        },
+        {
+            "time": 2.643718820861678,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 2.977052154195011,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 3.006984126984127,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 3.3403174603174604,
+            "arrow": "Direita"
+        },
+        {
+            "time": 3.6736507936507934,
+            "arrow": "Cima"
+        },
+        {
+            "time": 3.7035827664399092,
+            "arrow": "Cima"
+        },
+        {
+            "time": 4.036916099773243,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 4.370249433106576,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 4.4117913832199545,
+            "arrow": "Cima"
+        },
+        {
+            "time": 4.7451247165532875,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 5.078458049886621,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 5.131609977324263,
+            "arrow": "Cima"
+        },
+        {
+            "time": 5.464943310657596,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 5.79827664399093,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 5.828208616780046,
+            "arrow": "Cima"
+        },
+        {
+            "time": 6.161541950113379,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 6.494875283446713,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 6.501587301587302,
+            "arrow": "Cima"
+        },
+        {
+            "time": 6.834920634920635,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 7.1682539682539685,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 7.174965986394557,
+            "arrow": "Cima"
+        },
+        {
+            "time": 7.50829931972789,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 7.841632653061224,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 7.90639455782313,
+            "arrow": "Cima"
+        },
+        {
+            "time": 8.239727891156463,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 8.573061224489797,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 8.649433106575964,
+            "arrow": "Cima"
+        },
+        {
+            "time": 8.982766439909298,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 9.31609977324263,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 9.357641723356009,
+            "arrow": "Cima"
+        },
+        {
+            "time": 9.690975056689343,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 10.024308390022675,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 10.042630385487529,
+            "arrow": "Cima"
+        },
+        {
+            "time": 10.375963718820863,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 10.709297052154195,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 10.7740589569161,
+            "arrow": "Cima"
+        },
+        {
+            "time": 11.107392290249434,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 11.440725623582766,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 11.470657596371883,
+            "arrow": "Cima"
+        },
+        {
+            "time": 11.803990929705217,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 12.137324263038549,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 12.1556462585034,
+            "arrow": "Cima"
+        },
+        {
+            "time": 12.488979591836735,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 12.822312925170067,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 12.887074829931972,
+            "arrow": "Cima"
+        },
+        {
+            "time": 13.220408163265306,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 13.553741496598638,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 13.572063492063492,
+            "arrow": "Cima"
+        },
+        {
+            "time": 13.905396825396826,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 14.238730158730158,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 14.268662131519275,
+            "arrow": "Cima"
+        },
+        {
+            "time": 14.601995464852608,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 14.93532879818594,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 15.000090702947846,
+            "arrow": "Cima"
+        },
+        {
+            "time": 15.33342403628118,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 15.666757369614512,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 15.70829931972789,
+            "arrow": "Cima"
+        },
+        {
+            "time": 16.041632653061225,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 16.374965986394557,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 16.416507936507937,
+            "arrow": "Cima"
+        },
+        {
+            "time": 16.74984126984127,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 17.083174603174605,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 17.08988662131519,
+            "arrow": "Cima"
+        },
+        {
+            "time": 17.423219954648523,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 17.75655328798186,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 17.76326530612245,
+            "arrow": "Cima"
+        },
+        {
+            "time": 18.09659863945578,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 18.429931972789117,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 18.517913832199547,
+            "arrow": "Cima"
+        },
+        {
+            "time": 18.85124716553288,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 19.184580498866215,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 19.272562358276645,
+            "arrow": "Cima"
+        },
+        {
+            "time": 19.605895691609977,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 19.939229024943312,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 19.9459410430839,
+            "arrow": "Cima"
+        },
+        {
+            "time": 20.27927437641723,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 20.612607709750566,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 20.654149659863947,
+            "arrow": "Cima"
+        },
+        {
+            "time": 20.98748299319728,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 21.320816326530615,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 21.36235827664399,
+            "arrow": "Cima"
+        },
+        {
+            "time": 21.695691609977324,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 22.02902494331066,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 22.058956916099774,
+            "arrow": "Cima"
+        },
+        {
+            "time": 22.392290249433106,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 22.725623582766442,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 22.76716553287982,
+            "arrow": "Cima"
+        },
+        {
+            "time": 23.10049886621315,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 23.433832199546487,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 23.4637641723356,
+            "arrow": "Cima"
+        },
+        {
+            "time": 23.797097505668933,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 24.13043083900227,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 24.18358276643991,
+            "arrow": "Cima"
+        },
+        {
+            "time": 24.51691609977324,
+            "arrow": "Cima"
+        },
+        {
+            "time": 24.850249433106576,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 24.88018140589569,
+            "arrow": "Cima"
+        },
+        {
+            "time": 25.213514739229023,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 25.54684807256236,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 25.588390022675735,
+            "arrow": "Cima"
+        },
+        {
+            "time": 25.921723356009068,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 26.255056689342403,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 26.296598639455784,
+            "arrow": "Cima"
+        },
+        {
+            "time": 26.629931972789116,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 26.96326530612245,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 27.00480725623583,
+            "arrow": "Cima"
+        },
+        {
+            "time": 27.33814058956916,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 27.671473922902496,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 27.724625850340136,
+            "arrow": "Cima"
+        },
+        {
+            "time": 28.057959183673468,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 28.391292517006804,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 28.421224489795918,
+            "arrow": "Cima"
+        },
+        {
+            "time": 28.75455782312925,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 29.087891156462586,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 29.1178231292517,
+            "arrow": "Cima"
+        },
+        {
+            "time": 29.451156462585033,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 29.78448979591837,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 29.826031746031745,
+            "arrow": "Cima"
+        },
+        {
+            "time": 30.159365079365077,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 30.492698412698413,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 30.53424036281179,
+            "arrow": "Cima"
+        },
+        {
+            "time": 30.867573696145122,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 31.200907029478458,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 31.24244897959184,
+            "arrow": "Cima"
+        },
+        {
+            "time": 31.57578231292517,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 31.909115646258506,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 31.93904761904762,
+            "arrow": "Cima"
+        },
+        {
+            "time": 32.272380952380956,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 32.605714285714285,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 32.658866213151924,
+            "arrow": "Cima"
+        },
+        {
+            "time": 32.99219954648526,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 33.32553287981859,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 33.35546485260771,
+            "arrow": "Cima"
+        },
+        {
+            "time": 33.688798185941046,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 34.022131519274375,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 34.05206349206349,
+            "arrow": "Cima"
+        },
+        {
+            "time": 34.385396825396825,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 34.71873015873015,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 34.76027210884354,
+            "arrow": "Cima"
+        },
+        {
+            "time": 35.09360544217687,
+            "arrow": "Direita"
+        },
+        {
+            "time": 35.4269387755102,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 35.48009070294785,
+            "arrow": "Cima"
+        },
+        {
+            "time": 35.813424036281184,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 36.14675736961451,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 36.19990929705215,
+            "arrow": "Cima"
+        },
+        {
+            "time": 36.53324263038549,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 36.866575963718816,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 36.884897959183675,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 37.21823129251701,
+            "arrow": "Cima"
+        },
+        {
+            "time": 37.55156462585034,
+            "arrow": "Direita"
+        },
+        {
+            "time": 37.581496598639454,
+            "arrow": "Cima"
+        },
+        {
+            "time": 37.91482993197279,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 38.24816326530612,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 38.301315192743765,
+            "arrow": "Cima"
+        },
+        {
+            "time": 38.6346485260771,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 38.96798185941043,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 38.99791383219954,
+            "arrow": "Cima"
+        },
+        {
+            "time": 39.33124716553288,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 39.66458049886621,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 39.717732426303854,
+            "arrow": "Cima"
+        },
+        {
+            "time": 40.05106575963719,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 40.38439909297052,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 40.41433106575964,
+            "arrow": "Cima"
+        },
+        {
+            "time": 40.747664399092976,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 41.080997732426304,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 41.12253968253968,
+            "arrow": "Cima"
+        },
+        {
+            "time": 41.45587301587302,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 41.789206349206346,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 41.81913832199547,
+            "arrow": "Cima"
+        },
+        {
+            "time": 42.1524716553288,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 42.48580498866213,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 42.52734693877551,
+            "arrow": "Cima"
+        },
+        {
+            "time": 42.860680272108844,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 43.19401360544217,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 43.23555555555556,
+            "arrow": "Cima"
+        },
+        {
+            "time": 43.56888888888889,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 43.90222222222222,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 43.9437641723356,
+            "arrow": "Cima"
+        },
+        {
+            "time": 44.277097505668934,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 44.61043083900226,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 44.651972789115646,
+            "arrow": "Cima"
+        },
+        {
+            "time": 44.98530612244898,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 45.31863945578231,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 45.360181405895695,
+            "arrow": "Cima"
+        },
+        {
+            "time": 45.69351473922903,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 46.02684807256236,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 46.05678004535147,
+            "arrow": "Cima"
+        },
+        {
+            "time": 46.39011337868481,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 46.72344671201814,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 46.776598639455784,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 47.10993197278912,
+            "arrow": "Direita"
+        },
+        {
+            "time": 47.44326530612245,
+            "arrow": "Cima"
+        },
+        {
+            "time": 47.484807256235825,
+            "arrow": "Cima"
+        },
+        {
+            "time": 47.81814058956916,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 48.15147392290249,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 48.18140589569161,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 48.51473922902495,
+            "arrow": "Cima"
+        },
+        {
+            "time": 48.848072562358276,
+            "arrow": "Direita"
+        },
+        {
+            "time": 48.88961451247165,
+            "arrow": "Cima"
+        },
+        {
+            "time": 49.22294784580499,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 49.55628117913832,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 49.5978231292517,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 49.93115646258504,
+            "arrow": "Direita"
+        },
+        {
+            "time": 50.264489795918365,
+            "arrow": "Cima"
+        },
+        {
+            "time": 50.29442176870748,
+            "arrow": "Cima"
+        },
+        {
+            "time": 50.627755102040815,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 50.961088435374144,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 51.00263038548753,
+            "arrow": "Cima"
+        },
+        {
+            "time": 51.335963718820864,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 51.66929705215419,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 51.699229024943314,
+            "arrow": "Cima"
+        },
+        {
+            "time": 52.03256235827665,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 52.36589569160998,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 52.41904761904762,
+            "arrow": "Cima"
+        },
+        {
+            "time": 52.75238095238095,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 53.08571428571428,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 53.127256235827666,
+            "arrow": "Cima"
+        },
+        {
+            "time": 53.460589569161,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 53.79392290249433,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 53.823854875283445,
+            "arrow": "Cima"
+        },
+        {
+            "time": 54.15718820861678,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 54.49052154195011,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 54.53206349206349,
+            "arrow": "Cima"
+        },
+        {
+            "time": 54.86539682539683,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 55.19873015873016,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 55.240272108843534,
+            "arrow": "Cima"
+        },
+        {
+            "time": 55.57360544217687,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 55.9069387755102,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 55.913650793650795,
+            "arrow": "Cima"
+        },
+        {
+            "time": 56.24698412698413,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 56.58031746031746,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 56.64507936507937,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 56.978412698412704,
+            "arrow": "Direita"
+        },
+        {
+            "time": 57.31174603174603,
+            "arrow": "Cima"
+        },
+        {
+            "time": 57.35328798185941,
+            "arrow": "Cima"
+        },
+        {
+            "time": 57.686621315192745,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 58.019954648526074,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 58.06149659863946,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 58.394829931972794,
+            "arrow": "Direita"
+        },
+        {
+            "time": 58.72816326530612,
+            "arrow": "Cima"
+        },
+        {
+            "time": 58.7697052154195,
+            "arrow": "Cima"
+        },
+        {
+            "time": 59.103038548752835,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 59.43637188208616,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 59.466303854875285,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 59.79963718820862,
+            "arrow": "Direita"
+        },
+        {
+            "time": 60.13297052154195,
+            "arrow": "Cima"
+        },
+        {
+            "time": 60.162902494331064,
+            "arrow": "Cima"
+        },
+        {
+            "time": 60.4962358276644,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 60.82956916099773,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 60.824671201814056,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 61.15800453514739,
+            "arrow": "Direita"
+        },
+        {
+            "time": 61.49133786848072,
+            "arrow": "Cima"
+        },
+        {
+            "time": 61.59092970521542,
+            "arrow": "Cima"
+        },
+        {
+            "time": 61.92426303854876,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 62.25759637188209,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 62.2875283446712,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 62.62086167800454,
+            "arrow": "Direita"
+        },
+        {
+            "time": 62.954195011337866,
+            "arrow": "Cima"
+        },
+        {
+            "time": 62.98412698412698,
+            "arrow": "Cima"
+        },
+        {
+            "time": 63.317460317460316,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 63.650793650793645,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 63.63428571428572,
+            "arrow": "Cima"
+        },
+        {
+            "time": 63.96761904761905,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 64.30095238095238,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 64.41215419501134,
+            "arrow": "Cima"
+        },
+        {
+            "time": 64.74548752834467,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 65.07882086167801,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 65.10875283446713,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 65.44208616780045,
+            "arrow": "Direita"
+        },
+        {
+            "time": 65.7754195011338,
+            "arrow": "Cima"
+        },
+        {
+            "time": 65.81696145124717,
+            "arrow": "Cima"
+        },
+        {
+            "time": 66.1502947845805,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 66.48362811791384,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 66.53678004535148,
+            "arrow": "Cima"
+        },
+        {
+            "time": 66.8701133786848,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 67.20344671201815,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 67.24498866213152,
+            "arrow": "Cima"
+        },
+        {
+            "time": 67.57832199546485,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 67.91165532879819,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 67.9415873015873,
+            "arrow": "Cima"
+        },
+        {
+            "time": 68.27492063492063,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 68.60825396825398,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 68.64979591836735,
+            "arrow": "Cima"
+        },
+        {
+            "time": 68.98312925170067,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 69.31646258503402,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 69.3231746031746,
+            "arrow": "Cima"
+        },
+        {
+            "time": 69.65650793650794,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 69.98984126984128,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 70.04299319727892,
+            "arrow": "Cima"
+        },
+        {
+            "time": 70.37632653061225,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 70.70965986394559,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 70.76281179138321,
+            "arrow": "Cima"
+        },
+        {
+            "time": 71.09614512471654,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 71.42947845804989,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 71.47102040816327,
+            "arrow": "Cima"
+        },
+        {
+            "time": 71.8043537414966,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 72.13768707482994,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 72.17922902494331,
+            "arrow": "Cima"
+        },
+        {
+            "time": 72.51256235827664,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 72.84589569160998,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 72.8758276643991,
+            "arrow": "Cima"
+        },
+        {
+            "time": 73.20916099773243,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 73.54249433106577,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 73.59564625850341,
+            "arrow": "Cima"
+        },
+        {
+            "time": 73.92897959183674,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 74.26231292517008,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 74.29224489795918,
+            "arrow": "Cima"
+        },
+        {
+            "time": 74.62557823129251,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 74.95891156462585,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 75.01206349206349,
+            "arrow": "Cima"
+        },
+        {
+            "time": 75.34539682539682,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 75.67873015873016,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 75.68544217687075,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 76.01877551020408,
+            "arrow": "Cima"
+        },
+        {
+            "time": 76.35210884353742,
+            "arrow": "Direita"
+        },
+        {
+            "time": 76.38204081632654,
+            "arrow": "Direita"
+        },
+        {
+            "time": 76.71537414965987,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 77.04870748299321,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 77.1134693877551,
+            "arrow": "Cima"
+        },
+        {
+            "time": 77.44680272108843,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 77.78013605442177,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 77.83328798185941,
+            "arrow": "Cima"
+        },
+        {
+            "time": 78.16662131519274,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 78.49995464852609,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 78.54149659863945,
+            "arrow": "Cima"
+        },
+        {
+            "time": 78.87482993197278,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 79.20816326530613,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 79.23809523809524,
+            "arrow": "Cima"
+        },
+        {
+            "time": 79.57142857142857,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 79.90476190476191,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 79.94630385487528,
+            "arrow": "Cima"
+        },
+        {
+            "time": 80.27963718820861,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 80.61297052154195,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 80.65451247165532,
+            "arrow": "Cima"
+        },
+        {
+            "time": 80.98784580498865,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 81.321179138322,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 81.35111111111111,
+            "arrow": "Cima"
+        },
+        {
+            "time": 81.68444444444444,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 82.01777777777778,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 82.05931972789115,
+            "arrow": "Cima"
+        },
+        {
+            "time": 82.39265306122448,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 82.72598639455782,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 82.75591836734694,
+            "arrow": "Cima"
+        },
+        {
+            "time": 83.08925170068026,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 83.42258503401361,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 83.47573696145125,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 83.80907029478458,
+            "arrow": "Direita"
+        },
+        {
+            "time": 84.14240362811792,
+            "arrow": "Cima"
+        },
+        {
+            "time": 84.19555555555556,
+            "arrow": "Cima"
+        },
+        {
+            "time": 84.52888888888889,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 84.86222222222223,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 84.89215419501134,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 85.22548752834467,
+            "arrow": "Cima"
+        },
+        {
+            "time": 85.55882086167802,
+            "arrow": "Direita"
+        },
+        {
+            "time": 85.58875283446712,
+            "arrow": "Cima"
+        },
+        {
+            "time": 85.92208616780044,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 86.25541950113379,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 86.29696145124717,
+            "arrow": "Cima"
+        },
+        {
+            "time": 86.6302947845805,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 86.96362811791384,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 87.00517006802721,
+            "arrow": "Cima"
+        },
+        {
+            "time": 87.33850340136054,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 87.67183673469388,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 87.71337868480725,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 88.04671201814058,
+            "arrow": "Direita"
+        },
+        {
+            "time": 88.38004535147392,
+            "arrow": "Cima"
+        },
+        {
+            "time": 88.40997732426304,
+            "arrow": "Cima"
+        },
+        {
+            "time": 88.74331065759637,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 89.07664399092971,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 89.12979591836735,
+            "arrow": "Cima"
+        },
+        {
+            "time": 89.46312925170068,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 89.79646258503402,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 89.82639455782314,
+            "arrow": "Cima"
+        },
+        {
+            "time": 90.15972789115646,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 90.49306122448981,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 90.53460317460318,
+            "arrow": "Cima"
+        },
+        {
+            "time": 90.8679365079365,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 91.20126984126985,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 91.24281179138322,
+            "arrow": "Cima"
+        },
+        {
+            "time": 91.57614512471655,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 91.90947845804989,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 91.95102040816326,
+            "arrow": "Cima"
+        },
+        {
+            "time": 92.28435374149659,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 92.61768707482993,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 92.65922902494331,
+            "arrow": "Cima"
+        },
+        {
+            "time": 92.99256235827664,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 93.32589569160999,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 93.35582766439909,
+            "arrow": "Cima"
+        },
+        {
+            "time": 93.68916099773242,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 94.02249433106576,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 94.06403628117914,
+            "arrow": "Cima"
+        },
+        {
+            "time": 94.39736961451247,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 94.73070294784581,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 94.77224489795918,
+            "arrow": "Cima"
+        },
+        {
+            "time": 95.10557823129251,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 95.43891156462585,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 95.4920634920635,
+            "arrow": "Cima"
+        },
+        {
+            "time": 95.82539682539682,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 96.15873015873017,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 96.18866213151928,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 96.52199546485261,
+            "arrow": "Cima"
+        },
+        {
+            "time": 96.85532879818595,
+            "arrow": "Direita"
+        },
+        {
+            "time": 96.88526077097505,
+            "arrow": "Cima"
+        },
+        {
+            "time": 97.21859410430838,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 97.55192743764172,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 97.5934693877551,
+            "arrow": "Cima"
+        },
+        {
+            "time": 97.92680272108844,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 98.26013605442178,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 98.30167800453515,
+            "arrow": "Cima"
+        },
+        {
+            "time": 98.63501133786848,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 98.96834467120182,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 99.00988662131519,
+            "arrow": "Cima"
+        },
+        {
+            "time": 99.34321995464852,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 99.67655328798186,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 99.70648526077098,
+            "arrow": "Cima"
+        },
+        {
+            "time": 100.0398185941043,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 100.37315192743765,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 100.41469387755102,
+            "arrow": "Cima"
+        },
+        {
+            "time": 100.74802721088435,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 101.08136054421769,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 101.12290249433107,
+            "arrow": "Cima"
+        },
+        {
+            "time": 101.4562358276644,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 101.78956916099774,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 101.83111111111111,
+            "arrow": "Cima"
+        },
+        {
+            "time": 102.16444444444444,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 102.49777777777778,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 102.5277097505669,
+            "arrow": "Cima"
+        },
+        {
+            "time": 102.86104308390023,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 103.19437641723357,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 103.23591836734694,
+            "arrow": "Cima"
+        },
+        {
+            "time": 103.56925170068027,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 103.90258503401361,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 103.95573696145125,
+            "arrow": "Cima"
+        },
+        {
+            "time": 104.28907029478458,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 104.62240362811792,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 104.65233560090702,
+            "arrow": "Cima"
+        },
+        {
+            "time": 104.98566893424035,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 105.3190022675737,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 105.36054421768708,
+            "arrow": "Cima"
+        },
+        {
+            "time": 105.6938775510204,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 106.02721088435375,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 106.05714285714286,
+            "arrow": "Cima"
+        },
+        {
+            "time": 106.39047619047619,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 106.72380952380954,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 106.77696145124716,
+            "arrow": "Cima"
+        },
+        {
+            "time": 107.11029478458049,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 107.44362811791383,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 107.47356009070295,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 107.80689342403628,
+            "arrow": "Direita"
+        },
+        {
+            "time": 108.14022675736962,
+            "arrow": "Cima"
+        },
+        {
+            "time": 108.18176870748299,
+            "arrow": "Cima"
+        },
+        {
+            "time": 108.51510204081632,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 108.84843537414966,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 108.88997732426304,
+            "arrow": "Cima"
+        },
+        {
+            "time": 109.22331065759637,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 109.55664399092971,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 109.58657596371881,
+            "arrow": "Cima"
+        },
+        {
+            "time": 109.91990929705214,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 110.25324263038549,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 110.29478458049887,
+            "arrow": "Cima"
+        },
+        {
+            "time": 110.6281179138322,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 110.96145124716554,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 111.00299319727891,
+            "arrow": "Cima"
+        },
+        {
+            "time": 111.33632653061224,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 111.66965986394558,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 111.71120181405895,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 112.04453514739228,
+            "arrow": "Direita"
+        },
+        {
+            "time": 112.37786848072562,
+            "arrow": "Cima"
+        },
+        {
+            "time": 112.41941043083901,
+            "arrow": "Cima"
+        },
+        {
+            "time": 112.75274376417234,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 113.08607709750568,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 113.12761904761905,
+            "arrow": "Cima"
+        },
+        {
+            "time": 113.46095238095238,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 113.79428571428572,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 113.83582766439909,
+            "arrow": "Cima"
+        },
+        {
+            "time": 114.16916099773242,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 114.50249433106576,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 114.53242630385488,
+            "arrow": "Cima"
+        },
+        {
+            "time": 114.8657596371882,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 115.19909297052155,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 115.24063492063492,
+            "arrow": "Cima"
+        },
+        {
+            "time": 115.57396825396825,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 115.90730158730159,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 115.94884353741497,
+            "arrow": "Cima"
+        },
+        {
+            "time": 116.2821768707483,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 116.61551020408164,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 116.65705215419501,
+            "arrow": "Cima"
+        },
+        {
+            "time": 116.99038548752834,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 117.32371882086169,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 117.36526077097506,
+            "arrow": "Cima"
+        },
+        {
+            "time": 117.69859410430838,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 118.03192743764173,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 118.0734693877551,
+            "arrow": "Cima"
+        },
+        {
+            "time": 118.40680272108843,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 118.74013605442177,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 118.77006802721088,
+            "arrow": "Cima"
+        },
+        {
+            "time": 119.10340136054421,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 119.43673469387755,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 119.47827664399092,
+            "arrow": "Cima"
+        },
+        {
+            "time": 119.81160997732425,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 120.1449433106576,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 120.18648526077098,
+            "arrow": "Cima"
+        },
+        {
+            "time": 120.51981859410431,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 120.85315192743765,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 120.89469387755102,
+            "arrow": "Cima"
+        },
+        {
+            "time": 121.22802721088435,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 121.56136054421769,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 121.5912925170068,
+            "arrow": "Cima"
+        },
+        {
+            "time": 121.92462585034014,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 122.25795918367348,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 122.29950113378685,
+            "arrow": "Direita"
+        },
+        {
+            "time": 122.63283446712018,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 122.96616780045352,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 123.00770975056689,
+            "arrow": "Direita"
+        },
+        {
+            "time": 123.34104308390022,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 123.67437641723356,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 123.70430839002267,
+            "arrow": "Cima"
+        },
+        {
+            "time": 124.037641723356,
+            "arrow": "Cima"
+        },
+        {
+            "time": 124.37097505668935,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 124.41251700680272,
+            "arrow": "Direita"
+        },
+        {
+            "time": 124.74585034013604,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 125.07918367346939,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 125.12072562358277,
+            "arrow": "Cima"
+        },
+        {
+            "time": 125.4540589569161,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 125.78739229024944,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 125.82893424036281,
+            "arrow": "Cima"
+        },
+        {
+            "time": 126.16226757369614,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 126.49560090702948,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 126.53714285714285,
+            "arrow": "Cima"
+        },
+        {
+            "time": 126.87047619047618,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 127.20380952380953,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 127.23374149659864,
+            "arrow": "Cima"
+        },
+        {
+            "time": 127.56707482993197,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 127.90040816326531,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 127.94195011337868,
+            "arrow": "Cima"
+        },
+        {
+            "time": 128.27528344671202,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 128.60861678004534,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 128.65015873015872,
+            "arrow": "Cima"
+        },
+        {
+            "time": 128.98349206349206,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 129.31682539682538,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 129.35836734693876,
+            "arrow": "Cima"
+        },
+        {
+            "time": 129.6917006802721,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 130.02503401360542,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 130.05496598639456,
+            "arrow": "Cima"
+        },
+        {
+            "time": 130.3882993197279,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 130.72163265306122,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 130.7631746031746,
+            "arrow": "Cima"
+        },
+        {
+            "time": 131.09650793650795,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 131.42984126984126,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 131.48299319727892,
+            "arrow": "Cima"
+        },
+        {
+            "time": 131.81632653061226,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 132.14965986394557,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 132.19120181405896,
+            "arrow": "Cima"
+        },
+        {
+            "time": 132.5245351473923,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 132.8578684807256,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 132.88780045351473,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 133.22113378684807,
+            "arrow": "Cima"
+        },
+        {
+            "time": 133.55446712018139,
+            "arrow": "Direita"
+        },
+        {
+            "time": 133.58439909297053,
+            "arrow": "Cima"
+        },
+        {
+            "time": 133.91773242630387,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 134.25106575963719,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 134.30421768707484,
+            "arrow": "Cima"
+        },
+        {
+            "time": 134.63755102040818,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 134.9708843537415,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 135.0008163265306,
+            "arrow": "Cima"
+        },
+        {
+            "time": 135.33414965986395,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 135.66748299319727,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 135.70902494331065,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 136.042358276644,
+            "arrow": "Direita"
+        },
+        {
+            "time": 136.3756916099773,
+            "arrow": "Cima"
+        },
+        {
+            "time": 136.40562358276645,
+            "arrow": "Cima"
+        },
+        {
+            "time": 136.7389569160998,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 137.0722902494331,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 137.12544217687073,
+            "arrow": "Cima"
+        },
+        {
+            "time": 137.45877551020408,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 137.7921088435374,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 137.8336507936508,
+            "arrow": "Cima"
+        },
+        {
+            "time": 138.16698412698415,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 138.50031746031746,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 138.53024943310658,
+            "arrow": "Cima"
+        },
+        {
+            "time": 138.86358276643992,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 139.19691609977323,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 139.23845804988662,
+            "arrow": "Cima"
+        },
+        {
+            "time": 139.57179138321996,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 139.90512471655327,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 139.94666666666666,
+            "arrow": "Cima"
+        },
+        {
+            "time": 140.28,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 140.61333333333332,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 140.64326530612246,
+            "arrow": "Cima"
+        },
+        {
+            "time": 140.9765986394558,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 141.30993197278912,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 141.3514739229025,
+            "arrow": "Cima"
+        },
+        {
+            "time": 141.68480725623584,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 142.01814058956916,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 142.05968253968254,
+            "arrow": "Cima"
+        },
+        {
+            "time": 142.39301587301588,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 142.7263492063492,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 142.76789115646258,
+            "arrow": "Cima"
+        },
+        {
+            "time": 143.10122448979592,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 143.43455782312924,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 143.4877097505669,
+            "arrow": "Cima"
+        },
+        {
+            "time": 143.82104308390024,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 144.15437641723355,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 144.18430839002266,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 144.517641723356,
+            "arrow": "Cima"
+        },
+        {
+            "time": 144.85097505668932,
+            "arrow": "Direita"
+        },
+        {
+            "time": 144.89251700680273,
+            "arrow": "Cima"
+        },
+        {
+            "time": 145.22585034013608,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 145.5591836734694,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 145.60072562358278,
+            "arrow": "Cima"
+        },
+        {
+            "time": 145.93405895691612,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 146.26739229024943,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 146.29732426303855,
+            "arrow": "Cima"
+        },
+        {
+            "time": 146.6306575963719,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 146.9639909297052,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 147.0055328798186,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 147.33886621315193,
+            "arrow": "Cima"
+        },
+        {
+            "time": 147.67219954648525,
+            "arrow": "Direita"
+        },
+        {
+            "time": 147.7021315192744,
+            "arrow": "Cima"
+        },
+        {
+            "time": 148.03546485260773,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 148.36879818594105,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 148.41034013605443,
+            "arrow": "Cima"
+        },
+        {
+            "time": 148.74367346938777,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 149.0770068027211,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 149.13015873015874,
+            "arrow": "Cima"
+        },
+        {
+            "time": 149.46349206349208,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 149.7968253968254,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 149.8267573696145,
+            "arrow": "Cima"
+        },
+        {
+            "time": 150.16009070294785,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 150.49342403628117,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 150.51174603174604,
+            "arrow": "Cima"
+        },
+        {
+            "time": 150.84507936507939,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 151.1784126984127,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 151.2431746031746,
+            "arrow": "Cima"
+        },
+        {
+            "time": 151.57650793650794,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 151.90984126984125,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 151.9397732426304,
+            "arrow": "Cima"
+        },
+        {
+            "time": 152.27310657596374,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 152.60643990929705,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 152.64798185941044,
+            "arrow": "Cima"
+        },
+        {
+            "time": 152.98131519274378,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 153.3146485260771,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 153.35619047619048,
+            "arrow": "Cima"
+        },
+        {
+            "time": 153.68952380952382,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 154.02285714285713,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 154.06439909297052,
+            "arrow": "Cima"
+        },
+        {
+            "time": 154.39773242630386,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 154.73106575963718,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 154.77260770975056,
+            "arrow": "Cima"
+        },
+        {
+            "time": 155.1059410430839,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 155.43927437641722,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 155.4808163265306,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 155.81414965986394,
+            "arrow": "Direita"
+        },
+        {
+            "time": 156.14748299319726,
+            "arrow": "Cima"
+        },
+        {
+            "time": 156.1774149659864,
+            "arrow": "Cima"
+        },
+        {
+            "time": 156.51074829931974,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 156.84408163265306,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 156.88562358276644,
+            "arrow": "Cima"
+        },
+        {
+            "time": 157.21895691609978,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 157.5522902494331,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 157.59383219954648,
+            "arrow": "Cima"
+        },
+        {
+            "time": 157.92716553287983,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 158.26049886621314,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 158.30204081632652,
+            "arrow": "Cima"
+        },
+        {
+            "time": 158.63537414965987,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 158.96870748299318,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 158.99863945578232,
+            "arrow": "Cima"
+        },
+        {
+            "time": 159.33197278911567,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 159.66530612244898,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 159.70684807256237,
+            "arrow": "Cima"
+        },
+        {
+            "time": 160.0401814058957,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 160.37351473922902,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 160.4150566893424,
+            "arrow": "Cima"
+        },
+        {
+            "time": 160.74839002267575,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 161.08172335600906,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 161.12326530612245,
+            "arrow": "Cima"
+        },
+        {
+            "time": 161.4565986394558,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 161.7899319727891,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 161.8314739229025,
+            "arrow": "Cima"
+        },
+        {
+            "time": 162.16480725623583,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 162.49814058956915,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 162.53968253968253,
+            "arrow": "Cima"
+        },
+        {
+            "time": 162.87301587301587,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 163.2063492063492,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 163.24789115646257,
+            "arrow": "Cima"
+        },
+        {
+            "time": 163.58122448979591,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 163.91455782312923,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 163.94448979591837,
+            "arrow": "Cima"
+        },
+        {
+            "time": 164.27782312925171,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 164.61115646258503,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 164.6526984126984,
+            "arrow": "Cima"
+        },
+        {
+            "time": 164.98603174603176,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 165.31936507936507,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 165.36090702947845,
+            "arrow": "Cima"
+        },
+        {
+            "time": 165.6942403628118,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 166.0275736961451,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 166.0691156462585,
+            "arrow": "Cima"
+        },
+        {
+            "time": 166.40244897959184,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 166.73578231292515,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 166.7657142857143,
+            "arrow": "Cima"
+        },
+        {
+            "time": 167.09904761904764,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 167.43238095238095,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 167.4855328798186,
+            "arrow": "Cima"
+        },
+        {
+            "time": 167.81886621315195,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 168.15219954648526,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 168.18213151927438,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 168.51546485260772,
+            "arrow": "Direita"
+        },
+        {
+            "time": 168.84879818594104,
+            "arrow": "Cima"
+        },
+        {
+            "time": 168.89034013605442,
+            "arrow": "Cima"
+        },
+        {
+            "time": 169.22367346938776,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 169.55700680272108,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 169.59854875283446,
+            "arrow": "Cima"
+        },
+        {
+            "time": 169.9318820861678,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 170.26521541950112,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 170.29514739229026,
+            "arrow": "Cima"
+        },
+        {
+            "time": 170.6284807256236,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 170.96181405895692,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 171.0033560090703,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 171.33668934240364,
+            "arrow": "Direita"
+        },
+        {
+            "time": 171.67002267573696,
+            "arrow": "Cima"
+        },
+        {
+            "time": 171.7231746031746,
+            "arrow": "Cima"
+        },
+        {
+            "time": 172.05650793650796,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 172.38984126984127,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 172.41977324263038,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 172.75310657596373,
+            "arrow": "Direita"
+        },
+        {
+            "time": 173.08643990929704,
+            "arrow": "Cima"
+        },
+        {
+            "time": 173.1395918367347,
+            "arrow": "Cima"
+        },
+        {
+            "time": 173.47292517006804,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 173.80625850340135,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 173.82458049886623,
+            "arrow": "Cima"
+        },
+        {
+            "time": 174.15791383219957,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 174.49124716553288,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 174.5443990929705,
+            "arrow": "Cima"
+        },
+        {
+            "time": 174.87773242630385,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 175.21106575963717,
+            "arrow": "Baixo"
+        },
+        {
+            "time": 175.2409977324263,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 175.57433106575965,
+            "arrow": "Direita"
+        },
+        {
+            "time": 175.90766439909297,
+            "arrow": "Cima"
+        },
+        {
+            "time": 175.78666666666666,
+            "arrow": "Cima"
+        },
+        {
+            "time": 176.12,
+            "arrow": "Esquerda"
+        },
+        {
+            "time": 176.45333333333332,
+            "arrow": "Baixo"
+        }
+    ]
+}
